@@ -1,6 +1,7 @@
 function User(name) {
     return 'hello ' + name
 }
+//editing on github directly 
 
 
 //this commments is only in munashe branch    
