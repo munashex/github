@@ -8,6 +8,10 @@ function User(name) {
 //this is only available in munashe branch  
 //my name is munashe this file is munashe branch   
 
+  
+let name = "munashe" 
+console.log(name)
+
 
 
 
