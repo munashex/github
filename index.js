@@ -1,4 +1,4 @@
-function Mser(name) {
+function User(name) {
     return 'hello ' + name
 }
 
