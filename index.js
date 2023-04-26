@@ -6,7 +6,8 @@ function User(name) {
 
 //this commments is only in munashe branch    
 //this is only available in munashe branch  
-//my name is munashe this file is munashe branch   
+//my name is munashe this file is munashe branch    
+//this only update-readme branch 
 
   
 let name = "munashe" 
