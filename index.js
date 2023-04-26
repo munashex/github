@@ -2,7 +2,7 @@ function User(name) {
     return 'hello ' + name
 }
 //editing on github directly 
-
+//from munashe branch 
 
 //this commments is only in munashe branch    
 //this is only available in munashe branch  
